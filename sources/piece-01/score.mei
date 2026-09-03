@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<mei xml:id="mei-1" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+<mei bogus="1" xml:id="mei-1" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
    <meiHead xml:id="meiHead-1">
       <fileDesc xml:id="fileDesc-1">
          <titleStmt xml:id="titleStmt-1">
@@ -139,12 +139,12 @@
                <measure xml:id="measure-1" n="1" facs="#zone-2-1">
                   <staff xml:id="staff-1" n="1">
                      <layer xml:id="layer-1" n="1">
-                        <mRest xml:id="mRest-1"/>
+                        <note dur="1" oct="4" pname="c"/>
                      </layer>
                   </staff>
                   <staff xml:id="staff-2" n="2">
                      <layer xml:id="layer-2" n="1">
-                        <mRest xml:id="mRest-2"/>
+                        <note dur="1" oct="4" pname="c"/>
                      </layer>
                   </staff>
                </measure>
