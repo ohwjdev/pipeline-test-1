@@ -1,3 +1,1 @@
 task_id,subtask_id,user_id,timestamp,kind
-T0001,,297915765,2026-09-03T13:18:48.395Z,encoding
-T0002,S0001,297915765,2026-09-03T13:18:54.135Z,validation

@@ -17,3 +17,5 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-03T13:18:48.395Z,T0001,,297915765,claim_encoding,accepted,,,,
 2026-09-03T13:18:51.426Z,T0001,,297915765,claim_encoding,rejected,already_locked,,,
 2026-09-03T13:18:54.135Z,T0002,S0001,297915765,claim_validation,accepted,,,,
+2026-09-03T16:45:41.540Z,T0001,,297915765,reap,released,encoding,,,
+2026-09-03T16:45:41.540Z,T0002,S0001,297915765,reap,released,validation,,,
