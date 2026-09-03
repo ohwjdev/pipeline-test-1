@@ -81,6 +81,14 @@
                <p>Encoding of T0001 (invalid test: bogus attribute)</p>
             </changeDesc>
          </change>
+         <change n="5" isodate="2026-09-03">
+            <respStmt>
+               <persName>ohwjdev</persName>
+            </respStmt>
+            <changeDesc>
+               <p>Encoding of T0002 (page 3, two notes)</p>
+            </changeDesc>
+         </change>
 </revisionDesc>
    </meiHead>
    <music xml:id="music-1">
@@ -359,12 +367,12 @@
                <measure xml:id="measure-18" n="18" facs="#zone-3-1">
                   <staff xml:id="staff-35" n="1">
                      <layer xml:id="layer-35" n="1">
-                        <mRest xml:id="mRest-35"/>
+                        <note dur="1" oct="5" pname="e"/>
                      </layer>
                   </staff>
                   <staff xml:id="staff-36" n="2">
                      <layer xml:id="layer-36" n="1">
-                        <mRest xml:id="mRest-36"/>
+                        <note dur="1" oct="5" pname="e"/>
                      </layer>
                   </staff>
                </measure>
