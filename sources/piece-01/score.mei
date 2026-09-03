@@ -359,7 +359,7 @@
                <measure xml:id="measure-18" n="18" facs="#zone-3-1">
                   <staff xml:id="staff-35" n="1">
                      <layer xml:id="layer-35" n="1">
-                        <mRest xml:id="mRest-35"/>
+                        <nope/>
                      </layer>
                   </staff>
                   <staff xml:id="staff-36" n="2">
